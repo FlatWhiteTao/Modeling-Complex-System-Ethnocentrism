@@ -9,6 +9,8 @@ public class AgentProducer {
 
     private Controller controller;
     private String newString;
+    private String newString1111;
+    private String tetsss;
 
     //initialise
     public AgentProducer(Controller controller) {
