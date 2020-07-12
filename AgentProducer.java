@@ -11,6 +11,7 @@ public class AgentProducer {
     private String newString;
     private String newString1111;
     private String tetsss;
+    private String ffff;
 
     //initialise
     public AgentProducer(Controller controller) {
