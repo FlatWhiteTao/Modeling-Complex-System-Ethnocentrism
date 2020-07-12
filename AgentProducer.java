@@ -8,6 +8,7 @@ import java.util.Random;
 public class AgentProducer {
 
     private Controller controller;
+    private String newString;
 
     //initialise
     public AgentProducer(Controller controller) {

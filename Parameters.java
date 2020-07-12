@@ -11,6 +11,8 @@ public class Parameters {
     // The number of total kinds of groups in the model, each color represents one group 
     protected static int colors = 4;
 
+    protected static int test = 3;
+
     // The width and height of the grid
     protected static int size = 50;
 
